@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "influencer-main",
     "source": ".",
     "ignore": [
       "firebase.json",
