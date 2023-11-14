@@ -265,7 +265,7 @@ const Navbar = () => {
                                 <div
                                   className={`bg-[#EECDFF] w-[25px] h-[25px] rounded-full p-2 relative flex items-center justify-center`}
                                 >
-                                  <Image
+                                  <img
                                     src={feature.icon}
                                     alt=""
                                     width={300}
@@ -326,7 +326,7 @@ const Navbar = () => {
                                 <div
                                   className={`bg-[#EECDFF] w-[25px] h-[25px] rounded-full flex items-center justify-center`}
                                 >
-                                  <Image
+                                  <img
                                     src={feature.icon}
                                     alt=""
                                     width={300}
@@ -387,7 +387,7 @@ const Navbar = () => {
                                 <div
                                   className={`bg-[#EECDFF] w-[25px] h-[25px] rounded-full flex items-center justify-center`}
                                 >
-                                  <Image
+                                  <img
                                     src={feature.icon}
                                     alt=""
                                     width={300}
@@ -563,7 +563,7 @@ const Navbar = () => {
                                   <div
                                     className={`bg-[#EECDFF] w-[25px] h-[25px] rounded-full flex items-center justify-center`}
                                   >
-                                    <Image
+                                    <img
                                       src={feature.icon}
                                       alt=""
                                       width={300}
@@ -628,7 +628,7 @@ const Navbar = () => {
                                     <div
                                       className={`bg-[#EECDFF] w-[25px] h-[25px] rounded-full flex items-center justify-center`}
                                     >
-                                      <Image
+                                      <img
                                         src={feature.icon}
                                         alt=""
                                         width={300}
@@ -692,7 +692,7 @@ const Navbar = () => {
                                   <div
                                     className={`bg-[#EECDFF] w-[25px] h-[25px] rounded-full flex items-center justify-center`}
                                   >
-                                    <Image
+                                    <img
                                       src={feature.icon}
                                       alt=""
                                       width={300}
