@@ -53,7 +53,7 @@ const Choose = () => {
                     <div className='md:w-1/2'>
                         <RevealWrapper rotate={{ x: 0, y: 40, z: 0 }} origin='bottom' delay={200} duration={3000} distance='500px' reset={false} viewOffset={{ top: 0, right: 0, bottom: 10, left: 0 }}>
 
-                            <Image src={'/images/choose-us.png'} width={1080} height={1080} alt="" className='w-[501px] ' />
+                            <img src={'/images/choose-us.png'} width={1080} height={1080} alt="" className='w-[501px]'/>
                         </RevealWrapper>
                     </div>
                     <div className='md:w-1/2'>
