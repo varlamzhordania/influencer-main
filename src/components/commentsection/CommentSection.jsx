@@ -38,7 +38,7 @@ const CommentsSection = (props) => {
           <div className="mt-4 us:mb-[1.6rem] sm:mb-[2.5rem]">
             <div className="flex items-start sm:px-[3rem] px-2 w-full">
               {!hide && ( 
-                <Image alt="User Avatar" src="/images/user.jpg" width={1080} height={1080} className='w-[100px] rounded-full' />
+                <img alt="User Avatar" src="/images/user.jpg" width={1080} height={1080} className='w-[100px] rounded-full' />
               )}
               {!hide && ( 
                 <textarea

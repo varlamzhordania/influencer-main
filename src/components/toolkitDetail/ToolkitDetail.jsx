@@ -21,7 +21,7 @@ const ToolkitDetail = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-3 gap-8">
             {toolkit.map((item, i) => (
               <div key={i} className="shadow-md rounded-[10px] bg-white">
-                <Image
+                <img
                   src={item.image}
                   alt=""
                   width={1080}

@@ -19,7 +19,7 @@ const Blog = () => {
                         {
                             blogsData2.map((item, i) => (
                                 <div key={i} className='shadow-md rounded-[10px] bg-white'>
-                                    <Image src={item.image} width={1080} height={1080} className='rounded-t-[10px] max-w-[320px] md:max-w-[320px] h-[200px] object-cover' />
+                                    <img src={item.image} width={1080} height={1080} className='rounded-t-[10px] max-w-[320px] md:max-w-[320px] h-[200px] object-cover' />
                                     <div className='flex flex-col p-5 gap-3 max-w-[320px] md:max-w-[320px] '>
                                         <div className='flex justify-between items-center '>
                                             <p className='text-[16px] text-[#AF1FFC] font-[500]'>

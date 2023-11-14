@@ -46,15 +46,15 @@ const Influent = () => {
                 fillOpacity="0.31"
               />
             </svg>
-            {/* <Image src={'/images/vector-creat.png'} alt="" width={100} height={100} className="-rotate-45   mt-[-5rem]  "/> */}
-            <Image
+            {/* <img src={'/images/vector-creat.png'} alt="" width={100} height={100} className="-rotate-45   mt-[-5rem]  "/> */}
+            <img
               src={"/images/searcheng1.png"}
               alt=""
               width={800}
               height={800}
               className="w-[320px] md:w-[400px] absolute mt-[3rem]  rounded-[10px]"
             />
-            <Image
+            <img
               src={"/images/searcheng2.png"}
               alt=""
               width={800}

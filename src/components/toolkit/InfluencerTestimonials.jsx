@@ -25,7 +25,7 @@ const InfluencerTestimonials = () => {
             <p className={` text-[16px]`}>
               Tracking forms the backbone of any influencer marketing campaign, enabling you to accurately evaluate your endeavors' success. Provide influencers with tracking URLs or leverage influencer/affiliate software to monitor performance. Tools like Sprout's Smart Inbox can aid in monitoring relevant hashtags and key terms. Keep a vigilant eye on metrics such as engagement, impressions, reach, and results to gauge the campaign's impact.
             </p>
-            <Image
+            <img
               src={"/images/testimonial.png"}
               alt=""
               width={800}
@@ -66,7 +66,7 @@ const InfluencerTestimonials = () => {
                 Managing influencer partnerships necessitates impeccable organization. Maintain meticulous records of campaigns, influencers, objectives, and progress. By swiftly identifying your most successful influencers, topics, posts, and partnerships, you can optimize and streamline your influencer marketing efforts. Treat your relationships with influencers as partnerships, ensuring your goals are aligned and facilitating open discussions about potential future collaborations. Below is a checklist to assist you in staying organized.
               </p>
               <div className="flex items-start gap-3 mt-5">
-                <Image
+                <img
                   src={"/images/man.jpeg"}
                   width={300}
                   height={300}

@@ -89,7 +89,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="flex basis-[50%] justify-start items-start relative md:mt-[-5rem]">
-            {/* <Image
+            {/* <img
               src={"/images/vector1.png"}
               alt=""
               width={600}
@@ -105,14 +105,14 @@ const Hero = () => {
                 className="w-full md:w-[1000px] z-5"
               />
             </div>
-            {/* <Image
+            {/* <img
               src={"/images/vvector2.png"}
               alt=""
               width={600}
               height={600}
               className=" w-[60px] md:w-[80px] relative top-48 md:left-[29rem] z-[-1]"
             />
-            <Image
+            <img
               src={"/images/hero-bg2.png"}
               alt=""
               width={500}

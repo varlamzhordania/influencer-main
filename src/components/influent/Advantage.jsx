@@ -42,7 +42,7 @@ const Advantage = () => {
                       item.id == 2 ? "bg-[#FF5B84]" : "bg-[#AF1FFC]"
                     }  rounded-md w-[84px] h-[84px] flex justify-center items-center`}
                   >
-                    <Image
+                    <img
                       src={item.img}
                       alt=""
                       width={600}

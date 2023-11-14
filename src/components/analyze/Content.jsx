@@ -33,7 +33,7 @@ const Content = () => {
                                 fillOpacity="0.31"
                             />
                         </svg>
-                         <Image src={'/images/content.png'} alt="" width={800} height={800} className="max-w-[320px] md:max-w-[529px] absolute  rounded-[10px]" />
+                         <img src={'/images/content.png'} alt="" width={800} height={800} className="max-w-[320px] md:max-w-[529px] absolute  rounded-[10px]" />
                     </div>
                 </div>
             </Wrapper>

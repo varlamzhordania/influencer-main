@@ -6,7 +6,7 @@ const ReplyButton = ({ onClick }) => {
     <button onClick={onClick} className="text-black focus:outline-none md:ml-5">
       <div className="flex items-center gap-2">
         <div className="relative w-4 h-4 ">
-          <Image src="/images/replyIcon.svg" alt="Reply Icon" fill objectFit="contain" />
+          <img src="/images/replyIcon.svg" alt="Reply Icon" fill objectFit="contain" />
         </div>
         <p className='text-[16px]'>Reply</p>
       </div>
@@ -34,7 +34,7 @@ const handleReplySubmit = () => {
   return (
     <div className="flex items-start mt-2 pb-2 ">
     <div className="relative aspect-square rounded-full w-full min-w-[30px] md:min-w-[68px] md:max-w-[70px] overflow-hidden mr-3">
-        <Image
+        <img
           src={reply.profile}
           alt="Profile"
           fill
@@ -101,7 +101,7 @@ const handleReplySubmit = () => {
   return (
     <div className="flex items-start my-3 mx-2 md:mx-5 ">
       <div className="relative aspect-square rounded-full min-w-[40px] md:min-w-[68px] md:max-w-[80px] mr-3 sm:my-2 sm:mr-auto">
-        <Image
+        <img
           src={props.eachComment.profile}
           alt="Profile"
           fill

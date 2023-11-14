@@ -17,7 +17,7 @@ const Reporting = () => {
 
                     </div>
                     <div className="md:w-1/2 flex justify-start">
-                        <Image src={'/images/reportingnew.png'} alt="" width={800} height={800} className="w-[320px] md:w-[567px]   rounded-[10px]" />
+                        <img src={'/images/reportingnew.png'} alt="" width={800} height={800} className="w-[320px] md:w-[567px]   rounded-[10px]" />
                     </div>
                 </div>
             </Wrapper>

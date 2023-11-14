@@ -29,7 +29,7 @@ const About = () => {
                          <p className={` text-[16px]`}>In Canada, influencers and content creators have become pivotal in establishing authentic connections between brands and their followers. This holds true for businesses of all sizes and types, whether they are eCommerce ventures or brick-and-mortar establishments. At Infulent, we empower these enterprises to harness the power of influencer marketing to its fullest potential.</p>
                     </div>
                     <div className="md:w-1/2 flex md:justify-start">
-                        <Image src={'/images/about1.png'} alt="" width={800} height={800} className="w-[320px] h-[320px] md:w-[459px] md:h-[459px] object-cover rounded-full" />
+                        <img src={'/images/about1.png'} alt="" width={800} height={800} className="w-[320px] h-[320px] md:w-[459px] md:h-[459px] object-cover rounded-full" />
                     </div>
                 </div>
             </Wrapper>

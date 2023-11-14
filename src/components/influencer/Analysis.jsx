@@ -18,7 +18,7 @@ const Analysis = () => {
                         </p>  </div>
                     <div className="md:w-1/2 flex justify-start">
                         <div className="relative z-[-1] w-[320px] h-[320px] md:w-[387px] md:h-[390px] bg-[#F5E3FF] rounded-full "></div>
-                        <Image src={'/images/analyze.png'} alt="" width={800} height={800} className="max-w-[320px] md:max-w-[503px] absolute  rounded-[10px]" />
+                        <img src={'/images/analyze.png'} alt="" width={800} height={800} className="max-w-[320px] md:max-w-[503px] absolute  rounded-[10px]" />
                     </div>
                 </div>
             </Wrapper>

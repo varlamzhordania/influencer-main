@@ -31,8 +31,8 @@ const Authentic = () => {
                                 fillOpacity="0.31"
                             />
                         </svg>
-                        <Image src={'/images/aa2.png'} alt="" width={800} height={800} className="max-w-[200px] ml-10 md:ml-0 mt-5 md:max-w-[300px] absolute rounded-[10px]" />
-                        <Image src={'/images/aa1.png'} alt="" width={800} height={800} className="max-w-[200px] md:max-w-[300px] mt-[9rem] md:mt-[12rem] ml-[5rem] absolute rounded-[10px]" />
+                        <img src={'/images/aa2.png'} alt="" width={800} height={800} className="max-w-[200px] ml-10 md:ml-0 mt-5 md:max-w-[300px] absolute rounded-[10px]" />
+                        <img src={'/images/aa1.png'} alt="" width={800} height={800} className="max-w-[200px] md:max-w-[300px] mt-[9rem] md:mt-[12rem] ml-[5rem] absolute rounded-[10px]" />
                     </div>
                 </div>
             </Wrapper>

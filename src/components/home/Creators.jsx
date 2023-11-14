@@ -85,7 +85,7 @@ const Creators = () => {
               height={1000}
               // className="w-[320px] md:w-[500px] rounded-[10px]"
             />
-            {/* <Image
+            {/* <img
               src={"/images/creators2.png"}
               alt=""
               width={800}

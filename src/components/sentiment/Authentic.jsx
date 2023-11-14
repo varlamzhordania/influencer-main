@@ -34,8 +34,8 @@ const Authentic = () => {
                                 fillOpacity="0.31"
                             />
                         </svg>
-                        {/* <Image src={'/images/vector-creat.png'} alt="" width={100} height={100} className="-rotate-45   mt-[-5rem]  "/> */}
-                        <Image
+                        {/* <img src={'/images/vector-creat.png'} alt="" width={100} height={100} className="-rotate-45   mt-[-5rem]  "/> */}
+                        <img
                             src={"/images/advance.png"}
                             alt=""
                             width={800}

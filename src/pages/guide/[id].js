@@ -107,7 +107,7 @@ function GuideDetails() {
               className="md:w-[925px] w-full bg-white rounded-[10px]"
               style={{ boxShadow: "0px 4px 25px 0px rgba(0, 0, 0, 0.12)" }}
             >
-              <Image
+              <img
                 src={blog.image}
                 alt=""
                 width={1920}
@@ -220,14 +220,14 @@ function GuideDetails() {
                   laboris nisi ut aliquip ex ea commodo consequat.
                 </p> */}
                 <div className="flex justify-center items-center gap-5 md:flex-row flex-col">
-                  <Image
+                  <img
                     src={"/images/blogd1.jpeg"}
                     alt="img"
                     className="w-[320px] md:w-[420px] rounded-md h-[254px] object-cover"
                     width={1080}
                     height={1080}
                   />
-                  <Image
+                  <img
                     src={"/images/blogd2.jpeg"}
                     alt="img"
                     className="w-[320px] md:w-[420px] rounded-md h-[254px] object-cover"
@@ -295,7 +295,7 @@ function GuideDetails() {
             >
               <div className="p-7 hidden md:flex justify-between">
                 <div className="flex gap-5">
-                  <Image
+                  <img
                     src={
                       blogIndex > 0
                         ? blogsData2[blogIndex - 1].image
@@ -341,7 +341,7 @@ function GuideDetails() {
                       {blogsData2[blogIndex].title}
                     </p>
                   </div>
-                  <Image
+                  <img
                     src={
                       blogIndex + 1 < blogsData2.length
                         ? blogsData2[blogIndex + 1].image

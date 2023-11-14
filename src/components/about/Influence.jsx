@@ -72,7 +72,7 @@ const Influence = () => {
             </button> */}
           </div>
           <div className="md:w-1/2 flex md:justify-end ">
-            <Image
+            <img
               src={"/images/about2.png"}
               alt=""
               width={800}

@@ -56,7 +56,7 @@ const Explore = () => {
             </div>
           </div>
           <div className="hidden md:flex basis-[50%] justify-start items-start relative mt-[-5rem]">
-            <Image
+            <img
               src={"/images/vector1.png"}
               alt=""
               width={600}
@@ -64,7 +64,7 @@ const Explore = () => {
               className="w-[60px] md:w-[80px]  relative md:left-[-3rem] top-[-9rem]"
             />
             <div className="absolute md:top-[-7rem] h-[400px]">
-              <Image
+              <img
                 src={"/images/hero-bg.png"}
                 alt=""
                 width={1080}
@@ -73,14 +73,14 @@ const Explore = () => {
 
               />
             </div>
-            <Image
+            <img
               src={"/images/vvector2.png"}
               alt=""
               width={600}
               height={600}
               className=" w-[60px] md:w-[80px] relative top-48 md:left-[29rem] z-[-1]"
             />
-            <Image
+            <img
               src={"/images/hero-bg2.png"}
               alt=""
               width={500}
