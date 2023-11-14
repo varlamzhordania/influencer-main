@@ -78,7 +78,7 @@ const Creators = () => {
           </div>
           <div className="md:w-1/2 flex md:justify-end">
             {/* <div className="relative z-[-1] md:w-[387px] h-[390px] rounded-full md:left-[-20%]"></div> */}
-            <Image
+            <img
               src={"/images/influencer-discovery.png"}
               alt=""
               width={1000}

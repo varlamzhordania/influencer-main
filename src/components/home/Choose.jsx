@@ -74,7 +74,7 @@ const Choose = () => {
                                             data.map((item) => (
                                                 <div key={item.id} className='flex items-start justify-start gap-3'>
                                                     <div className='bg-white w-[50px] h-[50px] flex items-center justify-center rounded-md border-r border-b border-[#AF1FFC]'>
-                                                        <Image src={item.img} alt='' width={500} height={500} className='w-[26px] h-[26px]' />
+                                                        <img src={item.img} alt='' width={500} height={500} className='w-[26px] h-[26px]' />
                                                     </div>
                                                     <div className='flex flex-col justify-start items-start'>
                                                         <p className={`${font.className} text-[16px] font-[600]`}>
@@ -93,7 +93,7 @@ const Choose = () => {
                                             data1.map((item) => (
                                                 <div key={item.id} className='flex items-start justify-start gap-3'>
                                                     <div className='bg-white w-[50px] h-[50px] flex items-center justify-center rounded-md border-r border-b border-[#AF1FFC]'>
-                                                        <Image src={item.img} alt='' width={500} height={500} className='w-[26px] h-[26px]' />
+                                                        <img src={item.img} alt='' width={500} height={500} className='w-[26px] h-[26px]' />
                                                     </div>
                                                     <div className='flex flex-col justify-start items-start'>
                                                         <p className={`${font.className} text-[16px] font-[600]`}>

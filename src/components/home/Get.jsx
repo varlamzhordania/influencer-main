@@ -233,7 +233,7 @@ const Category = () => {
                     className="w-[61px] h-[61px] rounded-md flex items-center justify-center mt-4"
                     style={{ backgroundColor: item.bg }}
                   >
-                    <Image
+                    <img
                       src={item.img}
                       alt=""
                       width={100}
