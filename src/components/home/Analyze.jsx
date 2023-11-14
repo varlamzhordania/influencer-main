@@ -62,7 +62,7 @@ const Analyze = () => {
                 fillOpacity="0.31"
               />
             </svg>
-            <Image
+            <img
               src={"/images/analyze.png"}
               alt=""
               width={800}

@@ -50,7 +50,7 @@ const Influencer = () => {
           </div>
           <div className="md:w-1/2 flex md:justify-start">
             <div className="relative z-[-1] w-[320px] h-[320px] md:w-[387px] md:h-[390px] bg-[#F5E3FF] rounded-full "></div>
-            <Image
+            <img
               src={"/images/influence.png"}
               alt=""
               width={800}

@@ -28,7 +28,7 @@ const Testimonial = () => {
               on social media. Launch Testimonials, monitor real-time success,
               and access comprehensive reports for valuable insights.{" "}
             </p>
-            <Image
+            <img
               src={"/images/testimonial.png"}
               alt=""
               width={800}
@@ -76,7 +76,7 @@ const Testimonial = () => {
                 adipiscing elit, sed do eiusmod tempor incididunt
               </p>
               <div className="flex items-start gap-3 mt-5">
-                <Image
+                <img
                   src={"/images/man.jpeg"}
                   width={300}
                   height={300}

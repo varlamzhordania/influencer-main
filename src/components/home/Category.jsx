@@ -171,7 +171,7 @@ const Category = () => {
                 className="flex flex-col justify-center items-center p-5"
               >
                 <div className="bg-white flex flex-col mx-auto gap-2 p-3 w-[270px] rounded-[10px]">
-                  <Image
+                  <img
                     src={item.img}
                     alt=""
                     width={800}
