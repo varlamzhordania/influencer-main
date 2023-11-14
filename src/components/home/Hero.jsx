@@ -64,7 +64,7 @@ const Hero = () => {
                 }}
                 onClick={() =>
                   router.push(
-                    "https://infulent.io/signup"
+                    "https://app.infulent.io/signup"
                   )
                 }
                 className="font-[400] text-[14px] md:text-[16px] z-20 w-[150px] md:w-[181px] h-[49px] text-white rounded-full hover:scale-105 transition-all ease-in duration-300 "

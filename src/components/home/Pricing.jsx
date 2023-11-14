@@ -60,15 +60,15 @@ const Pricing = () => {
   const handleSubscribe = (plan) => {
     router.push(
       process.env.NODE_ENV === "development"
-        ? "https://infulent.io/signin"
-        : "https://infulent.io/signin"
+        ? "https://app.infulent.io/signin"
+        : "https://app.infulent.io/signin"
     );
     // if (!user) {
     //   // setSelectedPlan(plan);
     //   router.push(
     //     process.env.NODE_ENV === "development"
     //       ? "http://localhost:3001/signin"
-    //       : "https://infulent.io/signin"
+    //       : "https://app.infulent.io/signin"
     //   );
     //   // toggleModal();
     // } else {
@@ -77,7 +77,7 @@ const Pricing = () => {
     //     router.push(
     //       process.env.NODE_ENV === "development"
     //         ? "http://localhost:3001/plan&billing"
-    //         : "https://infulent.io/plan&billing"
+    //         : "https://app.infulent.io/plan&billing"
     //     );
     //   } else {
     //     createCheckOutSession(plan);

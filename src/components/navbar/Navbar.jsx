@@ -459,7 +459,7 @@ const Navbar = () => {
           {/* right */}
           {user ? (
             <Link
-              href={"https://infulent.io"}
+              href={"https://app.infulent.io"}
               className="font-[500] text-[18px]  text-black"
             >
               Go to dashboard
@@ -478,7 +478,7 @@ const Navbar = () => {
               </div>
               {/* start a project  */}
               <button
-                onClick={() => router.push("https://infulent.io/signup")}
+                onClick={() => router.push("https://app.infulent.io/signup")}
                 style={{
                   background:
                     "linear-gradient(271deg, #FF5B84 -51.86%, #4254FF 107.54%)",
@@ -766,7 +766,7 @@ const Navbar = () => {
                   {/* sign in */}
                   <div className="flex  items-center space-x-2 pl-2  rounded-md">
                     <button
-                      onClick={() => router.push("https://infulent.io/signup")}
+                      onClick={() => router.push("https://app.infulent.io/signup")}
                       className="font-[500] text-[18px]  text-black"
                     >
                       Log in
@@ -779,7 +779,7 @@ const Navbar = () => {
                         "linear-gradient(271deg, #FF5B84 -51.86%, #4254FF 107.54%)",
                       boxShadow: "0px 4px 250px 0px rgba(0, 180, 255, 0.33)",
                     }}
-                    onClick={() => router.push("https://infulent.io/signup")}
+                    onClick={() => router.push("https://app.infulent.io/signup")}
                     className="font-[400] text-[16px] z-20  w-[181px] h-[49px] text-white rounded-full  "
                   >
                     Start with free trial

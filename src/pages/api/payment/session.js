@@ -9,7 +9,7 @@ export default async function CreateStripeSession(req, res) {
   const redirectURL =
     process.env.NODE_ENV === "development"
       ? "http://localhost:3001/transaction"
-      : "https://infulent.io/transaction";
+      : "https://app.infulent.io/transaction";
 
   const transformedItem = {
     price_data: {

@@ -61,7 +61,7 @@ const Category = () => {
       ],
       save: "Saves 6 hours a day",
       buttonText: "Get Started",
-      link: "https://infulent.io/signup",
+      link: "https://app.infulent.io/signup",
     },
     {
       id: 2,
@@ -82,7 +82,7 @@ const Category = () => {
       ],
       save: "Saves 6 hours a day",
       buttonText: "Get Started",
-      link: "https://infulent.io/signup",
+      link: "https://app.infulent.io/signup",
     },
     {
       id: 3,
@@ -103,7 +103,7 @@ const Category = () => {
       ],
       save: "Saves 6 hours a day",
       buttonText: "Get Started",
-      link: "https://infulent.io/signup",
+      link: "https://app.infulent.io/signup",
     },
     {
       id: 5,
@@ -124,7 +124,7 @@ const Category = () => {
       ],
       save: "Saves 6 hours a day",
       buttonText: "Get Started",
-      link: "https://infulent.io/signup",
+      link: "https://app.infulent.io/signup",
     },
     {
       id: 6,
@@ -145,7 +145,7 @@ const Category = () => {
       ],
       save: "Saves 6 hours a day",
       buttonText: "Get Started",
-      link: "https://infulent.io/signup",
+      link: "https://app.infulent.io/signup",
     },
     {
       id: 7,
@@ -166,7 +166,7 @@ const Category = () => {
       ],
       save: "Saves 6 hours a day",
       buttonText: "Get Started",
-      link: "https://infulent.io/signup",
+      link: "https://app.infulent.io/signup",
     },
     {
       id: 8,
@@ -187,7 +187,7 @@ const Category = () => {
       ],
       save: "Saves 6 hours a day",
       buttonText: "Get Started",
-      link: "https://infulent.io/signup",
+      link: "https://app.infulent.io/signup",
     },
   ];
   const settings = {
