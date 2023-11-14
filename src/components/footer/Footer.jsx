@@ -109,13 +109,13 @@ const Footer = () => {
               <a href="/privacy-policy" className="text-sm md:text-base">Privacy policy</a>
             </p>
           </div>
-          <p className="text-sm md:text-base">
-            Design & Developed by{" "}
-            <a href="https://zysoftec.com/" className="text-[#AF1FFC]">
-              {" "}
-              Zysoftec
-            </a>
-          </p>
+          {/*<p className="text-sm md:text-base">*/}
+          {/*  Design & Developed by{" "}*/}
+          {/*  <a href="https://zysoftec.com/" className="text-[#AF1FFC]">*/}
+          {/*    {" "}*/}
+          {/*    Zysoftec*/}
+          {/*  </a>*/}
+          {/*</p>*/}
         </div>
       </Wrapper>
     </div>
